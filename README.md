@@ -13,3 +13,6 @@ This repository features projects that utilize unsupervised machine learning tec
 - [Principal Component Analysis (PCA)](./Dimensionality-Reduction-Projects/PCA/README.md)
 - [t-SNE](./Dimensionality-Reduction-Projects/t-SNE/README.md)
 
+### 3- Anomaly Detection
+### 4- Recommender Systems
+
